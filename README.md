@@ -87,6 +87,7 @@ Or on Ubuntu:
 ## Screenshots
 input :"A ticket examiner&#39;s swift response and preparedness to tackle a medical emergency saved
 an elderly passenger&#39;s life after he suffered a heart attack during a long-distance train journey."
+<br>
 ![App Screenshot](https://github.com/dldiscomt/E-ILMT-EngMal/blob/main/OutputScreenshots/Picture1.jpg?raw=true)
 
 
@@ -97,6 +98,7 @@ in a first-class coach of Pawan Express."
 
 
 input :"A cash prize has also been announced."
+<br>
 ![App Screenshot](https://github.com/dldiscomt/E-ILMT-EngMal/blob/main/OutputScreenshots/Picture3.jpg?raw=true)
 
 
